@@ -1,1 +1,1 @@
-Delta encoder
+Delta encoder/decoder
